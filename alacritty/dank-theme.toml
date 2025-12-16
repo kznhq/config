@@ -1,0 +1,31 @@
+[colors.primary]
+background = '#131313'
+foreground = '#e2e2e2'
+
+[colors.selection]
+text = '#e2e2e2'
+background = '#1d5109'
+
+[colors.cursor]
+text = '#131313'
+cursor = '#9bd67f'
+
+[colors.normal]
+black   = '#131313'
+red     = '#e44b68'
+green   = '#88d66e'
+yellow  = '#dbbb7b'
+blue    = '#5c9e3f'
+magenta = '#7da06c'
+cyan    = '#9bd67f'
+white   = '#abb2bf'
+
+[colors.bright]
+black   = '#5c6370'
+red     = '#e05f7c'
+green   = '#9ce086'
+yellow  = '#e8cd97'
+blue    = '#b3e19c'
+magenta = '#5d8437'
+cyan    = '#548448'
+white   = '#ffffff'
